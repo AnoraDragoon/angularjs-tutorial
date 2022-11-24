@@ -1,1 +1,9 @@
 /* app css stylesheet */
+.phone-thumbs li {
+    display: inline;
+}
+
+.phone-thumbs li img {
+    height: 200px;
+    cursor: pointer;
+}
